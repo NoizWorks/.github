@@ -1,0 +1,15 @@
+name: Check local links
+description: Check repository-local Markdown and HTML links without network requests.
+runs:
+  using: composite
+  steps:
+    - name: Test link checker
+      shell: bash
+      env:
+        ACTION_PATH: ${{ github.action_path }}
+      run: python3 "$ACTION_PATH/test_check_links.py"
+    - name: Check repository links
+      shell: bash
+      env:
+        ACTION_PATH: ${{ github.action_path }}
+      run: python3 "$ACTION_PATH/check_links.py" "$GITHUB_WORKSPACE"
