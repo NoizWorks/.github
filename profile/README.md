@@ -4,9 +4,11 @@ I’m fs0x1337. NoizWorks is where I publish MediaLatch and its documentation.
 
 ## MediaLatch
 
-MediaLatch is a Chromium extension for saving selected images, GIFs and videos. Choose folder and filename rules, see what saved and open the source again from Downloads. The current GitHub release, 3.0.7, supports saving to your computer, Google Drive and Yandex Disk.
+MediaLatch is a Chromium extension for saving selected images, GIFs and videos. Choose folder and filename rules, see what saved and open the source again from Downloads.
 
-[Install from Chrome Web Store](https://chromewebstore.google.com/detail/medialatch/cimghidldpjhhhngdhigddjfpcofhbmh) · [Read the docs](https://github.com/NoizWorks/MediaLatch) · [Download a signed CRX](https://github.com/NoizWorks/MediaLatch/releases) · [Development status](https://github.com/NoizWorks/MediaLatch/blob/main/docs/STATUS.md)
+Install and update MediaLatch **exclusively through [Chrome Web Store](https://chromewebstore.google.com/detail/medialatch/cimghidldpjhhhngdhigddjfpcofhbmh)**. GitHub Releases contains release notes.
+
+[Read the docs](https://github.com/NoizWorks/MediaLatch) · [Release notes](https://github.com/NoizWorks/MediaLatch/releases) · [Development status](https://github.com/NoizWorks/MediaLatch/blob/main/docs/STATUS.md)
 
 ## Contact and support
 
