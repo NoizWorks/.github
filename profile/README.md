@@ -2,13 +2,15 @@
 
 I’m fs0x1337. NoizWorks is where I publish MediaLatch and its documentation.
 
-## MediaLatch · EN
+## MediaLatch 3.1.1 · EN
 
 Save selected images, GIFs and videos in Chromium. Choose folders and filenames, track downloads, and prepare posts for connected Telegram channels or VK communities.
 
-## MediaLatch · RU
+## MediaLatch 3.1.1 · RU
 
 Сохраняйте выбранные изображения, GIF и видео в Chromium. Настраивайте папки и имена, следите за загрузками и готовьте публикации для подключённых каналов Telegram и сообществ VK.
+
+GitHub Releases contains release notes. В релизах GitHub публикуются заметки об изменениях.
 
 Install and update exclusively through [Chrome Web Store](https://chromewebstore.google.com/detail/medialatch/cimghidldpjhhhngdhigddjfpcofhbmh). Установка и обновления доступны только через Chrome Web Store.
 
