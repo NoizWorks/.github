@@ -2,13 +2,19 @@
 
 I’m fs0x1337. NoizWorks is where I publish MediaLatch and its documentation.
 
-## MediaLatch
+## MediaLatch · EN
 
-MediaLatch is a Chromium extension for saving selected images, GIFs and videos. Choose folder and filename rules, see what saved and open the source again from Downloads.
+Save selected images, GIFs and videos in Chromium. Choose folders and filenames, track downloads, and prepare posts for connected Telegram channels or VK communities.
 
-Install and update MediaLatch **exclusively through [Chrome Web Store](https://chromewebstore.google.com/detail/medialatch/cimghidldpjhhhngdhigddjfpcofhbmh)**. GitHub Releases contains release notes. [MediaLatch 3.1.1](https://github.com/NoizWorks/MediaLatch/releases/tag/v3.1.1) is awaiting manual testing before Chrome Web Store submission.
+## MediaLatch · RU
 
-[Read the docs](https://github.com/NoizWorks/MediaLatch) · [Release notes](https://github.com/NoizWorks/MediaLatch/releases) · [Development status](https://github.com/NoizWorks/MediaLatch/blob/main/docs/STATUS.md)
+Сохраняйте выбранные изображения, GIF и видео в Chromium. Настраивайте папки и имена, следите за загрузками и готовьте публикации для подключённых каналов Telegram и сообществ VK.
+
+Install and update exclusively through [Chrome Web Store](https://chromewebstore.google.com/detail/medialatch/cimghidldpjhhhngdhigddjfpcofhbmh). Установка и обновления доступны только через Chrome Web Store.
+
+Official extension ID / Официальный ID расширения — `cimghidldpjhhhngdhigddjfpcofhbmh`.
+
+[Website / Сайт](https://noizworks.is-a.dev/medialatch/) · [Русская версия](https://noizworks.is-a.dev/ru/medialatch/) · [Documentation / Документация](https://github.com/NoizWorks/MediaLatch) · [3.1.1 release notes](https://github.com/NoizWorks/MediaLatch/releases/tag/v3.1.1)
 
 ## Contact and support
 
