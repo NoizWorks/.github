@@ -4,11 +4,11 @@ I’m fs0x1337. NoizWorks is where I publish MediaLatch and its documentation.
 
 ## MediaLatch 3.1.1 · EN
 
-Save selected images, GIFs and videos in Chromium. Choose folders and filenames, track downloads, and prepare posts for connected Telegram channels or VK communities.
+Save selected images, GIFs and videos in Chromium to your computer, Google Drive, Yandex Disk or MEGA. Set folder and filename rules, track downloads, use Find original to locate sources, and prepare posts for connected Telegram channels or VK communities. Available in 4 themes (Obsidian, Sakura, Dark, Light) and 7 languages.
 
 ## MediaLatch 3.1.1 · RU
 
-Сохраняйте выбранные изображения, GIF и видео в Chromium. Настраивайте папки и имена, следите за загрузками и готовьте публикации для подключённых каналов Telegram и сообществ VK.
+Сохраняйте выбранные изображения, GIF и видео в Chromium на компьютер, в Google Drive, на Яндекс Диск или в MEGA. Настраивайте папки и имена, следите за загрузками, ищите источники через «Найти оригинал» и готовьте публикации для подключённых каналов Telegram и сообществ VK. Доступны 4 темы (Obsidian, Sakura, Dark, Light) и 7 языков интерфейса.
 
 GitHub Releases contains release notes. В релизах GitHub публикуются заметки об изменениях.
 
